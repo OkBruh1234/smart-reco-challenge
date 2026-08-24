@@ -1,0 +1,15 @@
+langchain-community
+langchain-text_splitters
+requests
+langchain-openai
+langchain-google-genai
+uvicorn 
+qdrant-client 
+sentence-transformers 
+rank-bm25 
+langgraph 
+openai 
+numpy
+pandas
+matplotlib
+python-dotenv
